@@ -1,6 +1,6 @@
 //Write a program that swaps the values of two variables without using third variable.
 
-
+//Class declaration 
 public class Assignment3 {
 
 	//Main method declaration 
